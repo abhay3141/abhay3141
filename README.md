@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhay3141
-- 👀 I’m interested in ML and Computer Vision
-- 🌱 I’m currently learning OpenCV,Deep Learning
-- 💞️ I’m looking to collaborate on projects on ML and Computer Vision
+- 👀 I’m interested in Machine Learning
+- 💞️ I’m looking to collaborate on projects on ML, Computer Vision, and Multimodal Learning
 - 📫 How to reach me a3141b@gmail.com
 
 <!---
